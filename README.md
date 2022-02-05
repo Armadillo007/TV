@@ -394,7 +394,7 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=802201
 http://tv.raizoml.xyz:25461/live/freenet/freenet/77.ts
 
 #EXTINF:-1 tvg-id="811" tvg-name="SUPERSPORT" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="MY : LIVE",SUPERSPORT/OffVpn
-http://mu0312.wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=YALM4262&password=360547880&stream=59220&token=TBRRBxJfEA9BCVYKUwBSUA8GUAEBVAhSA1UOVwwAAwQEAAFRWQdRDAEaHBtCRUIEWV5tC1QTC1cIVwoEGBJCElJEZg8FFQgXVQkJDwMTHENMWl8HEgsAVAVRCAwABQdUGxRJDwUVCBdQCgEMBhMcQ11LRgdCX1AObgFdQl1TUkMNWEwKDRsQWg1nVFxcUF4FGgkQUxIdEwtCFRoOWkVbDRsUWw8VRVNBBhoKGwIBCVgaHxABX0RfFkMcGg4WfW5DGxRcHhVSXEYKV14bCxNCFVVDEE4SWEI9QwBLQEZVVgxSRBtcQwcQGUFVUUFuUl8PVlZRFlleXxETXxoFFhwVDFhYUBIORW1FClwSAxMCAVYPAxAf
+http://mu0312.wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=YALM4262&password=360547880&stream=59220
 
 #EXTINF:-1 tvg-id="812" tvg-name="SUPERSPORT 2" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport2.png" group-title="MY : LIVE",SUPERSPORT 2/OffVpn
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=977899&stream=655
